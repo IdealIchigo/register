@@ -1,0 +1,10 @@
+{
+  "description": "Documentation for ichigo",
+  "owner": {
+    "username": "ichigo",
+    "email": "ivazuga@gmail.com"
+  },
+  "record": {
+    "TXT": "Hello World"
+  }
+}
